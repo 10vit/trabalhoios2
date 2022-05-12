@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+#showcase .btn {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border: rgb(255, 0, 115) 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+} /*pg 59 imagem no fundo*/
